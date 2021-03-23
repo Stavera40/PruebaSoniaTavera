@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnicaSonia", "PruebaTecnicaSonia\PruebaTecnicaSonia.csproj", "{869349ED-38BA-4732-81A9-0245AD78C80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{207F85AC-DB78-4EBF-970C-A5AF64B8F63E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{2807EAAE-BDA2-4630-892F-A1D89D437BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{869349ED-38BA-4732-81A9-0245AD78C80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869349ED-38BA-4732-81A9-0245AD78C80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869349ED-38BA-4732-81A9-0245AD78C80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869349ED-38BA-4732-81A9-0245AD78C80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207F85AC-DB78-4EBF-970C-A5AF64B8F63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207F85AC-DB78-4EBF-970C-A5AF64B8F63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207F85AC-DB78-4EBF-970C-A5AF64B8F63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207F85AC-DB78-4EBF-970C-A5AF64B8F63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2807EAAE-BDA2-4630-892F-A1D89D437BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2807EAAE-BDA2-4630-892F-A1D89D437BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2807EAAE-BDA2-4630-892F-A1D89D437BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2807EAAE-BDA2-4630-892F-A1D89D437BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68B764F1-2D44-4CBA-BCE1-5F3E51E5A33E}
+	EndGlobalSection
+EndGlobal

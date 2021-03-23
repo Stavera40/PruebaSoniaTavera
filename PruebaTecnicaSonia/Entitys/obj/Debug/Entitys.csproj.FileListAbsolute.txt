@@ -1,0 +1,6 @@
+C:\Users\escamillafa\source\repos\PruebaTecnicaSonia\Entitys\bin\Debug\Entitys.dll
+C:\Users\escamillafa\source\repos\PruebaTecnicaSonia\Entitys\bin\Debug\Entitys.pdb
+C:\Users\escamillafa\source\repos\PruebaTecnicaSonia\Entitys\obj\Debug\Entitys.csprojAssemblyReference.cache
+C:\Users\escamillafa\source\repos\PruebaTecnicaSonia\Entitys\obj\Debug\Entitys.csproj.CoreCompileInputs.cache
+C:\Users\escamillafa\source\repos\PruebaTecnicaSonia\Entitys\obj\Debug\Entitys.dll
+C:\Users\escamillafa\source\repos\PruebaTecnicaSonia\Entitys\obj\Debug\Entitys.pdb
